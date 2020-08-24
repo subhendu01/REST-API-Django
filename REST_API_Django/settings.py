@@ -93,19 +93,6 @@ WSGI_APPLICATION = 'REST_API_Django.wsgi.application'
 #     }
 # }
 
-# DATABASES = {
-#     'default': {
-#         'ENGINE': 'django.db.backends.mysql',
-#         'NAME': 'DEMO_CRUD',
-#         'USER': 'admin',
-#         'PASSWORD': 'Admin@123',
-#         'HOST': 'localhost',
-#         'PORT': '',
-#         'OPTIONS': {
-#             'init_command': "SET sql_mode='STRICT_TRANS_TABLES'"
-#         }
-#     }
-# }
 
 DATABASES = {
     'default': {
